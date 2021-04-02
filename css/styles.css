@@ -1,0 +1,12 @@
+h3 {
+  text-align: center;
+}
+
+.number-form {
+  padding: 40px;
+}
+
+#output {
+  display: none;
+  padding: 10px;
+}

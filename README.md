@@ -20,27 +20,28 @@ N/A
 
 ### Specs
 
-* It should be able to identify 0, 4, 5, 6, 7, 8, 9 and return the same number that was inputted"
-
-* It should be able to identify the number 0 and return "0".
-
-
-* It should be able to identify the number 1 and return "Beep!".
-* It should be able to identify the number 2 and return "Boop!".
-* It should be able to identify the number 3 and return "Wont you be my neighbor?"
+* It should be able to identify the input of 0 and return "0".
+* It should be able to identify the input of 1 and return "Beep!".
+* It should be able to identify the input of 2 and return "Boop!".
+* It should be able to identify the input of 3 and return "Wont you be my neighbor?"
+* It should be able to identify the input of 4 and return "4".
+* It should be able to identify the input of 5 and return "5".
+* It should be able to identify the input of 6 and return "6".
+* It should be able to identify the input of 7 and return "7".
+* It should be able to identify the input of 8 and return "8".
+* It should be able to identify the input of 9 and return "9".
 * It should use a loop to return my final list of values.
 
 ### Tests
 
-Describe: boringNumbers
-Test: 
-Code: 
-Expected Output:
+Describe: roborogers()
 
+Test: "It should be able to identify the input of 0 and return '0'."
+Code: roboRogers(0);
+Expected Output: 0
 
-Describe: boringNumbers
-Test: 
-Code: 
+Test:
+Code:
 Expected Output:
 
 ### Technologies Used:
@@ -48,10 +49,10 @@ Expected Output:
 1. HTML
 2. CSS
 3. Bootstrap
-3. JavaScript
-4. jQuery
-3. VSCode
-4. GitHub
+4. JavaScript
+5. jQuery
+6. VSCode
+7. GitHub
 
 ### Contact:
 
