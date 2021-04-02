@@ -6,7 +6,7 @@
 
 ### Description:
 
-
+This project takes a number input from a user and returns a range of numbers and text.
 
 ### Set Up Instructions:
 
@@ -20,7 +20,28 @@ N/A
 
 ### Specs
 
+* It should be able to identify 0, 4, 5, 6, 7, 8, 9 and return the same number that was inputted"
+
+* It should be able to identify the number 0 and return "0".
+
+
+* It should be able to identify the number 1 and return "Beep!".
+* It should be able to identify the number 2 and return "Boop!".
+* It should be able to identify the number 3 and return "Wont you be my neighbor?"
+* It should use a loop to return my final list of values.
+
 ### Tests
+
+Describe: boringNumbers
+Test: 
+Code: 
+Expected Output:
+
+
+Describe: boringNumbers
+Test: 
+Code: 
+Expected Output:
 
 ### Technologies Used:
 
