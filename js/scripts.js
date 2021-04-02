@@ -3,6 +3,21 @@ Business Logic
 const fullString = ["0", "Beep!", "Boop!", "Wont you be my neighbor?", "4", "5", "6", "7", "8", "9"]
 
 
+fullString.forEach(elements => {
+  if elements = 
+
+  console.log(elements)
+})
+
+for (let i = 1; i <=9; i++) {
+  if i % 1 === 0 
+}
+
+
+
+
+
+
 function fullString(numberInput)
   let array = [];
   if (fullString.includes("0")) {
