@@ -6,14 +6,24 @@ fullString.forEach(elements => {
   console.log(elements)
 })
 
+if fullstring = 1 {
+  return "1"
+
+}
+
+m 
+
 
 // UI Logic
-// $(document).ready(function() {
+$(document).ready(function() {
   
-//   $("#number-form").submit(function(event) {
-//     const numberInput = $("#number").val();
-//     $(".number-result").text(numberInput);
-//     $("#output").show();
-//     event.preventDefault();
-//   });
-// });
+  $("#number-form").submit(function(event) {
+    const numberInput = $("#number").val();
+    $(".number-result").text(numberInput);
+    $("#output").show();
+    event.preventDefault();
+  });
+});
+
+
+
