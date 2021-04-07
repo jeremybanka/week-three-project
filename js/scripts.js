@@ -1,15 +1,22 @@
 // Business Logic
 
+const inputNumbers = []
+let robotOutput = []
 
-const fullString = ["0", "Beep!", "Boop!", "Wont you be my neighbor?", "4", "5", "6", "7", "8", "9"]
+let userInput = parseInt($("#userInput").val())
 
-function RoboRogers(robotTalk) {
-  if (fullString.includes(robotTalk)) {
-    return true;
-  } else {
-    return false;
+// inputNumbers.forEach(function(number) {
+
+function robotTalk(number) {
+    if (number.includes("1")) {
+    inputNumbers.push("Beep!")
+  } if (number.includes("2")) {
+    inputNumbers.push("Boop!")
+  } if (number.includes("3")) {
+    inputNumbers.push("Wont you be my neighbor?")
   }
 }
+
 
 
 // UI Logic
