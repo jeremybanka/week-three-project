@@ -40,10 +40,6 @@ Test: "It should be able to identify the input of 0 and return '0'."
 Code: roboRogers(0);
 Expected Output: 0
 
-Test:
-Code:
-Expected Output:
-
 ### Technologies Used:
 
 1. HTML
@@ -56,7 +52,7 @@ Expected Output:
 
 ### Contact:
 
-✉️ [Email](mailto:ipdxcreative@gmail.com)
+Isaac's ✉️ [Email](mailto:ipdxcreative@gmail.com)
 
 ### Licenses:
 
